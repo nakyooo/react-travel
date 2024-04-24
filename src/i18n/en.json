@@ -1,0 +1,52 @@
+{
+    "header": {
+        "slogan": "Make travel happier",
+        "add_new_language": "add new language",
+        "title": "houteresting tourism website",
+        "register":"Register",
+        "signin":"Sign In",
+        "home_page": "Home",
+        "weekend": "Weekend",
+        "group": "Group",
+        "backpack": "Backpack",
+        "private": "Private",
+        "cruise": "Cruise",
+        "hotel": "Hotel & Attractions",
+        "local": "Local",
+        "theme": "Theme",
+        "custom": "Custom",
+        "study": "Study",
+        "visa":"Visa",
+        "enterprise":"Enterprise",
+        "high_end":"High-end",
+        "outdoor":"Outdoor",
+        "insurance":"Insurance",
+        "shoppingCart":"Shopping Cart",
+        "signOut":"Sign Out",
+        "welcome":"Welcome Back   "
+    },
+    "footer": {
+        "detail" : "All rights reserved @ houteresting tourism website"
+    },
+    "home_page": {
+        "hot_recommended": "Hot Recommended",
+        "new_arrival": "New arrival",
+        "domestic_travel": "Domestic travel",
+        "joint_venture": "Joint Venture",
+        "start_from": "(start from)"
+    },
+    "register": {
+        "title":"houteresting tourism website",
+        "description":"@Xiaohou Xinxin Published Works",
+        "email":"E-mail",
+        "username":"username",
+        "password":"password",
+        "confirm_password":"confirm password",
+        "register":"register",
+        "register_failed":"register failed",
+        "already_have_id":"I already have an ID, click here",
+        "signin":"sign in",
+        "remember_me":"remember me",
+        "no_id":"I don't have an ID yet, click here"
+    }
+}
