@@ -1,43 +1,24 @@
-# Getting Started with Create React App
+# 简介
+使用react、react-router、redux、RTK搭建旅游团购网站
+该网站能够实现用户注册、登录，可以查看推荐团购商品列表、点击查看商品详情，可以根据关键字搜索商品，并可以实现加入购物车，查看已添加至购物车的商品，并实现购物车的下单支付或清除功能
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+页面共包括：主页推荐页、注册页、登录页、商品详情页、搜索页、购物车页面
+Redux数据切片共包括：语言、用户、购物车、推荐商品、搜索商品、商品详情
+组件共包括：轮播图、footer、header、侧边栏、产品推荐部分（格子）、产品详情部分、产品评论部分、产品列表详情部分（查询的列表）、购物车小块、蒙层弹窗、portal传送门
 
-## Available Scripts
+# 展示图
+![LLAMH}VSSRTG$U98_QUSO11](https://github.com/nakyooo/react-travel/assets/136449843/2c510e48-f401-4656-abd5-5e609b1ed6eb)
+![ESQKCW P{NRA5ZW)IS9$J4](https://github.com/nakyooo/react-travel/assets/136449843/1eea28c0-d0dd-455f-8997-1776ffb7349e)
+![HDKE7{SMGA2TMR}DN8T {(X](https://github.com/nakyooo/react-travel/assets/136449843/01324234-fd45-4bee-b300-f454cd895338)
+![%VNUI777)6ELSAHZQIH1CDO](https://github.com/nakyooo/react-travel/assets/136449843/014e9fb0-1440-4f26-ae70-544a803dc8a4)
+![$WQ~UTQRHU_T2`5(@B`2HO1](https://github.com/nakyooo/react-travel/assets/136449843/875f9f5f-33ac-4417-8f4a-2b8e15154fed)
+![6ZMQCT 66FMT{D@P$@TGK3W](https://github.com/nakyooo/react-travel/assets/136449843/57c625cf-5f56-482d-a993-dd0cc6e9964e)
 
-In the project directory, you can run:
+### 启动
 
-### `npm start`
+使用npm start启动react项目
+可在本地(http://localhost:3000)浏览器中查看
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
 
